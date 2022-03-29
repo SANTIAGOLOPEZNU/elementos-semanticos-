@@ -1,0 +1,41 @@
+/*
+
+ANATOMIA DEL CSS
+
+selector{
+    propiedad: valor;
+    propiedad: valor;
+}*/
+
+body {
+   background-color: #02786F;
+}
+h2{
+    color: #00AF0B;
+    background-color: ;
+}
+p{
+    color: black;
+}
+h3{
+    color: #27BB00;
+}
+h1{
+    color: #2A0298;
+}
+
+/*imagen*/
+#foto-puente-de-la-mujer{
+    /*ancho*/
+    width: 550px;
+    /*largo*/
+    height: 300px   ;
+}
+
+#foto-obelisco{
+    /*ancho*/
+    width: 550px;
+    /*largo*/
+    height: 300px;
+}   
+
