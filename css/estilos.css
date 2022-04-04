@@ -39,3 +39,13 @@ h1{
     height: 300px;
 }   
 
+table {
+    background-color: black;
+
+}
+ tr {
+     background-color: white;
+ }
+ th {
+     background-color: aqua;
+ }
